@@ -9,5 +9,5 @@ Fitness and workout tracking application. Add workouts, focus on cardio or resis
 Access the deployed application at the link below. You can add new workouts or view your existing ones. The dashboard page will track your overrall progress.
 
 Below is a snapshot of how the web app looks:
-![](public/assets/images/MainPage.jpg)
-![](public/assets/images/Notes.jpg)
+![](public/images/FitnessTracker.jpg)
+![](public/images/AddExercise.jpg)
